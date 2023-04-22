@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VedanshNigam
-- 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently learning C++ , JavaScript and Python
+- 👀 I’m interested in Data Science and Analytics
+- 🌱 I’m skilled in Python, C++ and SQL
 
 <!---
 VedanshNigam/VedanshNigam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
